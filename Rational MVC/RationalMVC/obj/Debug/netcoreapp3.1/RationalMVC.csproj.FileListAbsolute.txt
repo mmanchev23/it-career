@@ -1,0 +1,13 @@
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\bin\Debug\netcoreapp3.1\RationalMVC.exe
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\bin\Debug\netcoreapp3.1\RationalMVC.deps.json
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\bin\Debug\netcoreapp3.1\RationalMVC.runtimeconfig.json
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\bin\Debug\netcoreapp3.1\RationalMVC.runtimeconfig.dev.json
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\bin\Debug\netcoreapp3.1\RationalMVC.dll
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\bin\Debug\netcoreapp3.1\RationalMVC.pdb
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.AssemblyInfoInputs.cache
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.AssemblyInfo.cs
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.dll
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.pdb
+C:\Users\Мартин Манчев\source\repos\RationalMVC\RationalMVC\obj\Debug\netcoreapp3.1\RationalMVC.genruntimeconfig.cache

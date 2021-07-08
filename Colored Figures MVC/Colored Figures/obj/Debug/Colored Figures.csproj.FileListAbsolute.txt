@@ -1,0 +1,7 @@
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\bin\Debug\Colored Figures.exe.config
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\bin\Debug\Colored Figures.exe
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\bin\Debug\Colored Figures.pdb
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\obj\Debug\Colored Figures.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\obj\Debug\Colored Figures.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\obj\Debug\Colored Figures.exe
+C:\Users\Мартин Манчев\source\repos\Colored Figures\Colored Figures\obj\Debug\Colored Figures.pdb

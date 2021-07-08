@@ -1,0 +1,13 @@
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\bin\Debug\netcoreapp3.1\Division without remainder.exe
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\bin\Debug\netcoreapp3.1\Division without remainder.deps.json
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\bin\Debug\netcoreapp3.1\Division without remainder.runtimeconfig.json
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\bin\Debug\netcoreapp3.1\Division without remainder.runtimeconfig.dev.json
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\bin\Debug\netcoreapp3.1\Division without remainder.dll
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\bin\Debug\netcoreapp3.1\Division without remainder.pdb
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.AssemblyInfoInputs.cache
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.AssemblyInfo.cs
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.dll
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.pdb
+C:\Users\Мартин Манчев\source\repos\Division without remainder\Division without remainder\obj\Debug\netcoreapp3.1\Division without remainder.genruntimeconfig.cache

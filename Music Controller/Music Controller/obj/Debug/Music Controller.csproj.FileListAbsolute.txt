@@ -1,0 +1,16 @@
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\bin\Debug\Music Controller.exe.config
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\bin\Debug\Music Controller.exe
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\bin\Debug\Music Controller.pdb
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\bin\Debug\Interop.WMPLib.dll
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music Controller.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Interop.WMPLib.dll
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music Controller.csproj.ResolveComReference.cache
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music_Controller.MusicController.resources
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music_Controller.Properties.Resources.resources
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music Controller.csproj.GenerateResource.cache
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music Controller.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music Controller.exe
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music Controller.pdb
+C:\Users\Мартин Манчев\source\repos\Music Controller\Music Controller\obj\Debug\Music_Controller.CloseForm.resources

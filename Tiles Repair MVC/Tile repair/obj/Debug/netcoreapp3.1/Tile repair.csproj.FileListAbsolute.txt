@@ -1,0 +1,13 @@
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\bin\Debug\netcoreapp3.1\Tile repair.exe
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\bin\Debug\netcoreapp3.1\Tile repair.deps.json
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\bin\Debug\netcoreapp3.1\Tile repair.runtimeconfig.json
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\bin\Debug\netcoreapp3.1\Tile repair.runtimeconfig.dev.json
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\bin\Debug\netcoreapp3.1\Tile repair.dll
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\bin\Debug\netcoreapp3.1\Tile repair.pdb
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.AssemblyInfoInputs.cache
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.AssemblyInfo.cs
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.dll
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.pdb
+C:\Users\Мартин Манчев\source\repos\Tile repair\Tile repair\obj\Debug\netcoreapp3.1\Tile repair.genruntimeconfig.cache

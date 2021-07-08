@@ -1,0 +1,13 @@
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\bin\Debug\netcoreapp3.1\TransportMVC.exe
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\bin\Debug\netcoreapp3.1\TransportMVC.deps.json
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\bin\Debug\netcoreapp3.1\TransportMVC.runtimeconfig.json
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\bin\Debug\netcoreapp3.1\TransportMVC.runtimeconfig.dev.json
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\bin\Debug\netcoreapp3.1\TransportMVC.dll
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\bin\Debug\netcoreapp3.1\TransportMVC.pdb
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.AssemblyInfoInputs.cache
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.AssemblyInfo.cs
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.dll
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.pdb
+C:\Users\Мартин Манчев\source\repos\TransportMVC\TransportMVC\obj\Debug\netcoreapp3.1\TransportMVC.genruntimeconfig.cache

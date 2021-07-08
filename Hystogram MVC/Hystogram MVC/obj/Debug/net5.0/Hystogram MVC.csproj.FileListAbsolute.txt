@@ -1,0 +1,16 @@
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\Hystogram MVC.exe
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\Hystogram MVC.deps.json
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\Hystogram MVC.runtimeconfig.json
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\Hystogram MVC.runtimeconfig.dev.json
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\Hystogram MVC.dll
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\ref\Hystogram MVC.dll
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\bin\Debug\net5.0\Hystogram MVC.pdb
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.csprojAssemblyReference.cache
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.AssemblyInfoInputs.cache
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.AssemblyInfo.cs
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.dll
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\ref\Hystogram MVC.dll
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.pdb
+C:\Users\Мартин Манчев\source\repos\Hystogram MVC\Hystogram MVC\obj\Debug\net5.0\Hystogram MVC.genruntimeconfig.cache
