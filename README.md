@@ -1,4 +1,4 @@
-# IT Career C#
+# IT Career
 
 ## Technologies:
 <ul>
@@ -8,7 +8,12 @@
         <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </li>
     <li>
-        IDEs - Visual Studio
+        Frameworks - .NET
+        <br>
+        <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    </li>
+    <li>
+        IDEs - Visual Studio 2019
         <br/>
         <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     </li>
