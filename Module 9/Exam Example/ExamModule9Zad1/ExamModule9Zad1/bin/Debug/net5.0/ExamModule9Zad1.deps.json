@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExamModule9Zad1/1.0.0": {
+        "runtime": {
+          "ExamModule9Zad1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamModule9Zad1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

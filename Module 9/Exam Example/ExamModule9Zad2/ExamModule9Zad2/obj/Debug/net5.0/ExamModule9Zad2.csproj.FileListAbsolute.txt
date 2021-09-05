@@ -1,0 +1,16 @@
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ExamModule9Zad2.exe
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ExamModule9Zad2.deps.json
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ExamModule9Zad2.runtimeconfig.json
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ExamModule9Zad2.runtimeconfig.dev.json
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ExamModule9Zad2.dll
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ref\ExamModule9Zad2.dll
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\bin\Debug\net5.0\ExamModule9Zad2.pdb
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.csproj.AssemblyReference.cache
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.AssemblyInfoInputs.cache
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.AssemblyInfo.cs
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.dll
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ref\ExamModule9Zad2.dll
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.pdb
+C:\Users\mmanc\source\repos\ExamModule9Zad2\ExamModule9Zad2\obj\Debug\net5.0\ExamModule9Zad2.genruntimeconfig.cache

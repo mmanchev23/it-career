@@ -1,0 +1,16 @@
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\Activities Assignment.exe
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\Activities Assignment.deps.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\Activities Assignment.runtimeconfig.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\Activities Assignment.runtimeconfig.dev.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\Activities Assignment.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\ref\Activities Assignment.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\bin\Debug\net5.0\Activities Assignment.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.csproj.AssemblyReference.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.AssemblyInfoInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.AssemblyInfo.cs
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\ref\Activities Assignment.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Activities Assignment\Activities Assignment\obj\Debug\net5.0\Activities Assignment.genruntimeconfig.cache
