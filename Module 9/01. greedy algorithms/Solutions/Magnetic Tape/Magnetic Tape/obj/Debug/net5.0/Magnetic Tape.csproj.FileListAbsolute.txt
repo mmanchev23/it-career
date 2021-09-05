@@ -1,0 +1,16 @@
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\Magnetic Tape.exe
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\Magnetic Tape.deps.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\Magnetic Tape.runtimeconfig.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\Magnetic Tape.runtimeconfig.dev.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\Magnetic Tape.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\ref\Magnetic Tape.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\bin\Debug\net5.0\Magnetic Tape.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.csproj.AssemblyReference.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.AssemblyInfoInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.AssemblyInfo.cs
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\ref\Magnetic Tape.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Magnetic Tape\Magnetic Tape\obj\Debug\net5.0\Magnetic Tape.genruntimeconfig.cache
