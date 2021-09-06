@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Scheduling Work on Time/1.0.0": {
+        "runtime": {
+          "Scheduling Work on Time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scheduling Work on Time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

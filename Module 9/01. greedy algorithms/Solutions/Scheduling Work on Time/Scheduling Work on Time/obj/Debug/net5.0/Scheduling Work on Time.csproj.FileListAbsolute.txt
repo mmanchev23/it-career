@@ -1,0 +1,16 @@
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\Scheduling Work on Time.exe
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\Scheduling Work on Time.deps.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\Scheduling Work on Time.runtimeconfig.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\Scheduling Work on Time.runtimeconfig.dev.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\Scheduling Work on Time.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\ref\Scheduling Work on Time.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\bin\Debug\net5.0\Scheduling Work on Time.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.csproj.AssemblyReference.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.AssemblyInfoInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.AssemblyInfo.cs
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\ref\Scheduling Work on Time.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\01. greedy algorithms\Solutions\Scheduling Work on Time\Scheduling Work on Time\obj\Debug\net5.0\Scheduling Work on Time.genruntimeconfig.cache
