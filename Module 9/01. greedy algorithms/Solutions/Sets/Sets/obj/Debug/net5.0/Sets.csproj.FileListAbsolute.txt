@@ -1,0 +1,16 @@
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\Sets.exe
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\Sets.deps.json
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\Sets.runtimeconfig.json
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\Sets.runtimeconfig.dev.json
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\Sets.dll
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\ref\Sets.dll
+C:\Users\mmanc\source\repos\Sets\Sets\bin\Debug\net5.0\Sets.pdb
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.csproj.AssemblyReference.cache
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.AssemblyInfoInputs.cache
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.AssemblyInfo.cs
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.dll
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\ref\Sets.dll
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.pdb
+C:\Users\mmanc\source\repos\Sets\Sets\obj\Debug\net5.0\Sets.genruntimeconfig.cache
