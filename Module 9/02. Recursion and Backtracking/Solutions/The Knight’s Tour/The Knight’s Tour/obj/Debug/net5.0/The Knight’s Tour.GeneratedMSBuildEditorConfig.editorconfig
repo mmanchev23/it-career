@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = The_Horse_Ride
-build_property.ProjectDir = C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Horse Ride\The Horse Ride\
+build_property.RootNamespace = The_Knight_s_Tour
+build_property.ProjectDir = C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\

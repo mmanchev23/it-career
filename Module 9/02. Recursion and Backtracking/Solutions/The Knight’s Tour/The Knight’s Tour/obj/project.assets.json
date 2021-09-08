@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmanc\\OneDrive\\Desktop\\IT-Career\\Module 9\\02. Recursion and Backtracking\\Solutions\\The Horse Ride\\The Horse Ride\\The Horse Ride.csproj",
-      "projectName": "The Horse Ride",
-      "projectPath": "C:\\Users\\mmanc\\OneDrive\\Desktop\\IT-Career\\Module 9\\02. Recursion and Backtracking\\Solutions\\The Horse Ride\\The Horse Ride\\The Horse Ride.csproj",
+      "projectUniqueName": "C:\\Users\\mmanc\\OneDrive\\Desktop\\IT-Career\\Module 9\\02. Recursion and Backtracking\\Solutions\\The Knight’s Tour\\The Knight’s Tour\\The Knight’s Tour.csproj",
+      "projectName": "The Knight’s Tour",
+      "projectPath": "C:\\Users\\mmanc\\OneDrive\\Desktop\\IT-Career\\Module 9\\02. Recursion and Backtracking\\Solutions\\The Knight’s Tour\\The Knight’s Tour\\The Knight’s Tour.csproj",
       "packagesPath": "C:\\Users\\mmanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmanc\\OneDrive\\Desktop\\IT-Career\\Module 9\\02. Recursion and Backtracking\\Solutions\\The Horse Ride\\The Horse Ride\\obj\\",
+      "outputPath": "C:\\Users\\mmanc\\OneDrive\\Desktop\\IT-Career\\Module 9\\02. Recursion and Backtracking\\Solutions\\The Knight’s Tour\\The Knight’s Tour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmanc\\AppData\\Roaming\\NuGet\\NuGet.Config",

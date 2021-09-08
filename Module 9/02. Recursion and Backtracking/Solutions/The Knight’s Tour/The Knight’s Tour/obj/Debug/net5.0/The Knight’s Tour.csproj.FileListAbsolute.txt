@@ -1,0 +1,16 @@
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\The Knight’s Tour.exe
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\The Knight’s Tour.deps.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\The Knight’s Tour.runtimeconfig.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\The Knight’s Tour.runtimeconfig.dev.json
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\The Knight’s Tour.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\ref\The Knight’s Tour.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\bin\Debug\net5.0\The Knight’s Tour.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.csproj.AssemblyReference.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.AssemblyInfoInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.AssemblyInfo.cs
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\ref\The Knight’s Tour.dll
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.pdb
+C:\Users\mmanc\OneDrive\Desktop\IT-Career\Module 9\02. Recursion and Backtracking\Solutions\The Knight’s Tour\The Knight’s Tour\obj\Debug\net5.0\The Knight’s Tour.genruntimeconfig.cache
