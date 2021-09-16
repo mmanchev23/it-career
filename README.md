@@ -1,6 +1,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/csharp-problems-solutions/blob/master/LICENSE)
 
-# ***C#***
+# ***C#*** - Problems and Solutions
 
 ## ***Technologies***:
 <ul>
