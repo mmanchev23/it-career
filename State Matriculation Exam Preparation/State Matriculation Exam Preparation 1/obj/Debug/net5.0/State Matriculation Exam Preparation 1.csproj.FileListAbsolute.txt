@@ -1,0 +1,16 @@
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\State Matriculation Exam Preparation 1.exe
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\State Matriculation Exam Preparation 1.deps.json
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\State Matriculation Exam Preparation 1.runtimeconfig.json
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\State Matriculation Exam Preparation 1.runtimeconfig.dev.json
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\State Matriculation Exam Preparation 1.dll
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\ref\State Matriculation Exam Preparation 1.dll
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\bin\Debug\net5.0\State Matriculation Exam Preparation 1.pdb
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.csproj.AssemblyReference.cache
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.AssemblyInfoInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.AssemblyInfo.cs
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.dll
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\ref\State Matriculation Exam Preparation 1.dll
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.pdb
+C:\Users\mmanc\OneDrive\Desktop\C#\State Matriculation Exam Preparation\State Matriculation Exam Preparation 1\obj\Debug\net5.0\State Matriculation Exam Preparation 1.genruntimeconfig.cache
