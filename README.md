@@ -1,6 +1,4 @@
-# ***IT Career***
-
-## ***National Program "IT Career" for training in the profession "Application Programmer" using C# and .NET***
+# ***C#***
 
 ### ***Technologies***:
 <ul>
