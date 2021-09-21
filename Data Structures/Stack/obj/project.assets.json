@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmanc\\Desktop\\C#\\Data Structures\\Linked List\\Linked List.csproj",
-      "projectName": "Linked List",
-      "projectPath": "C:\\Users\\mmanc\\Desktop\\C#\\Data Structures\\Linked List\\Linked List.csproj",
+      "projectUniqueName": "C:\\Users\\mmanc\\Desktop\\C#\\Data Structures\\Stack\\Stack.csproj",
+      "projectName": "Stack",
+      "projectPath": "C:\\Users\\mmanc\\Desktop\\C#\\Data Structures\\Stack\\Stack.csproj",
       "packagesPath": "C:\\Users\\mmanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmanc\\Desktop\\C#\\Data Structures\\Linked List\\obj\\",
+      "outputPath": "C:\\Users\\mmanc\\Desktop\\C#\\Data Structures\\Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
