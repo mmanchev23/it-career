@@ -1,9 +1,8 @@
 using System;
-using System.Linq;
 using System.IO;
 using System.Collections.Generic;
 
-namespace State_Matriculation_Exam_Preparation_1
+namespace Exam_Preparation
 {
     class Program
     {
@@ -16,15 +15,15 @@ namespace State_Matriculation_Exam_Preparation_1
             {
                 int type_of_vehicle = int.Parse(stream_reader.ReadLine());
                 string brand = stream_reader.ReadLine();
-                double[] properties = stream_reader.ReadLine().Split().Select(double.Parse).ToArray();
+                string[] properties = stream_reader.ReadLine().Split();
 
                 if (type_of_vehicle == 1)
                 {
-                    results.Push(new Car(brand, (int)(properties[0]), (int)(properties[1]), properties[2]));
+                    results.Push(new Car(brand, int.Parse(properties[0]), int.Parse(properties[1]), double.Parse(properties[2])));
                 }
                 else if (type_of_vehicle == 2)
                 {
-                    results.Push(new Truck(brand, (int)(properties[0]), (int)(properties[1]), properties[2], (int)(properties[3])));
+                    results.Push(new Truck(brand, int.Parse(properties[0]), int.Parse(properties[1]), double.Parse(properties[2]), int.Parse(properties[3])));
                 }
                 else
                 {
