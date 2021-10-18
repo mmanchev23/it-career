@@ -1,0 +1,16 @@
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\01. Permutations.exe
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\01. Permutations.deps.json
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\01. Permutations.runtimeconfig.json
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\01. Permutations.runtimeconfig.dev.json
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\01. Permutations.dll
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\ref\01. Permutations.dll
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\bin\Debug\net5.0\01. Permutations.pdb
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.csproj.AssemblyReference.cache
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.AssemblyInfoInputs.cache
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.AssemblyInfo.cs
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.dll
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\ref\01. Permutations.dll
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.pdb
+C:\Users\mmanc\Desktop\C#\IT Career\Module 9\03. combinatorics\Solutions\01. Permutations\obj\Debug\net5.0\01. Permutations.genruntimeconfig.cache

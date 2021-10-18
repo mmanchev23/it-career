@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\08. sample exam\\Solution\\ExamModule9Zad1\\ExamModule9Zad1\\ExamModule9Zad1.csproj": {}
+    "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\03. combinatorics\\Solutions\\01. Permutations\\01. Permutations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\08. sample exam\\Solution\\ExamModule9Zad1\\ExamModule9Zad1\\ExamModule9Zad1.csproj": {
+    "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\03. combinatorics\\Solutions\\01. Permutations\\01. Permutations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\08. sample exam\\Solution\\ExamModule9Zad1\\ExamModule9Zad1\\ExamModule9Zad1.csproj",
-        "projectName": "ExamModule9Zad1",
-        "projectPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\08. sample exam\\Solution\\ExamModule9Zad1\\ExamModule9Zad1\\ExamModule9Zad1.csproj",
+        "projectUniqueName": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\03. combinatorics\\Solutions\\01. Permutations\\01. Permutations.csproj",
+        "projectName": "01. Permutations",
+        "projectPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\03. combinatorics\\Solutions\\01. Permutations\\01. Permutations.csproj",
         "packagesPath": "C:\\Users\\mmanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\08. sample exam\\Solution\\ExamModule9Zad1\\ExamModule9Zad1\\obj\\",
+        "outputPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\Module 9\\03. combinatorics\\Solutions\\01. Permutations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
