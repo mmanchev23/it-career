@@ -1,5 +1,0 @@
-C:\Users\mmanc\Desktop\C#\Data Structures Implementation\Tree\obj\Debug\net5.0\Tree.csproj.AssemblyReference.cache
-C:\Users\mmanc\Desktop\C#\Data Structures Implementation\Tree\obj\Debug\net5.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mmanc\Desktop\C#\Data Structures Implementation\Tree\obj\Debug\net5.0\Tree.AssemblyInfoInputs.cache
-C:\Users\mmanc\Desktop\C#\Data Structures Implementation\Tree\obj\Debug\net5.0\Tree.AssemblyInfo.cs
-C:\Users\mmanc\Desktop\C#\Data Structures Implementation\Tree\obj\Debug\net5.0\Tree.csproj.CoreCompileInputs.cache
