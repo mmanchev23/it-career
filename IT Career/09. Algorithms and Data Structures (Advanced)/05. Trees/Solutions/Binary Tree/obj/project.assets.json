@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\09. Algorithms and Data Structures (Advanced)\\05. Trees\\Solutions\\Trees\\Binary Tree.csproj",
+      "projectUniqueName": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\09. Algorithms and Data Structures (Advanced)\\05. Trees\\Solutions\\Binary Tree\\Binary Tree.csproj",
       "projectName": "Binary Tree",
-      "projectPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\09. Algorithms and Data Structures (Advanced)\\05. Trees\\Solutions\\Trees\\Binary Tree.csproj",
+      "projectPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\09. Algorithms and Data Structures (Advanced)\\05. Trees\\Solutions\\Binary Tree\\Binary Tree.csproj",
       "packagesPath": "C:\\Users\\mmanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\09. Algorithms and Data Structures (Advanced)\\05. Trees\\Solutions\\Trees\\obj\\",
+      "outputPath": "C:\\Users\\mmanc\\Desktop\\C#\\IT Career\\09. Algorithms and Data Structures (Advanced)\\05. Trees\\Solutions\\Binary Tree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
