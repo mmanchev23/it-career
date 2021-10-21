@@ -1,0 +1,16 @@
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\Trees.exe
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\Trees.deps.json
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\Trees.runtimeconfig.json
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\Trees.runtimeconfig.dev.json
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\Trees.dll
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\ref\Trees.dll
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\bin\Debug\net5.0\Trees.pdb
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.csproj.AssemblyReference.cache
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.AssemblyInfoInputs.cache
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.AssemblyInfo.cs
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.dll
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\ref\Trees.dll
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.pdb
+C:\Users\mmanc\Desktop\C#\IT Career\09. Algorithms and Data Structures (Advanced)\05. Trees\Solutions\Trees\obj\Debug\net5.0\Trees.genruntimeconfig.cache
