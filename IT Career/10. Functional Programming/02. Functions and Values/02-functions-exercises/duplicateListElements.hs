@@ -1,0 +1,1 @@
+duplicate list = foldr (\ x xs -> x : x : xs) [] list
