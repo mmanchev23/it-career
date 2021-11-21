@@ -1,3 +1,4 @@
+main :: IO ()
 main = do
     firstName <- getLine
     lastName <- getLine
