@@ -1,0 +1,6 @@
+C:\Users\nikol\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\nikol\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\nikol\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\nikol\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\nikol\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
